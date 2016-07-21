@@ -6,13 +6,9 @@ JOBSPIRE_CHALLENGE CONTROLLER:
 <?php 
 
   function GetName($name)
-  
   {
-  
       $rand=rand(6,15);
-      
       return $name.$rand;
-    
   }
   
 ?>
