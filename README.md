@@ -14,6 +14,10 @@ JOBSPIRE_CHALLENGE CONTROLLER:
 ?>
 
 JOBSPIRE_CHALLENGE_VIEW VIEW:
+
 <?php
+
 echo GetName('Ahmad');
+
+
 ?>
